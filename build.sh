@@ -1,0 +1,1 @@
+cat parts/* > index.md
