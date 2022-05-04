@@ -5,3 +5,13 @@ Review.” *New Zealand Journal of Agricultural Research* 65 (2-3):
 
 Liao, Bohao, and Marilyn Krukowski. 2017. “Arrangement and Method for
 Determining a Body Condition Score of an Animal.” Google Patents.
+
+Pereira, Talmo D, Diego E Aldarondo, Lindsay Willmore, Mikhail Kislin,
+Samuel S-H Wang, Mala Murthy, and Joshua W Shaevitz. 2019. “Fast Animal
+Pose Estimation Using Deep Neural Networks.” *Nature Methods* 16 (1):
+117–25.
+
+Redmon, Joseph, Santosh Divvala, Ross Girshick, and Ali Farhadi. 2016.
+“You Only Look Once: Unified, Real-Time Object Detection.” In
+*Proceedings of the IEEE Conference on Computer Vision and Pattern
+Recognition*, 779–88.
