@@ -15,10 +15,3 @@ Review.” *New Zealand Journal of Agricultural Research* 65 (2-3):
 
 Liao, Bohao, and Marilyn Krukowski. 2017. “Arrangement and Method for
 Determining a Body Condition Score of an Animal.” Google Patents.
-Dohmen, Roel, Cagatay Catal, and Qingzhi Liu. 2022. “Computer
-Vision-Based Weight Estimation of Livestock: A Systematic Literature
-Review.” *New Zealand Journal of Agricultural Research* 65 (2-3):
-227–47.
-
-Liao, Bohao, and Marilyn Krukowski. 2017. “Arrangement and Method for
-Determining a Body Condition Score of an Animal.” Google Patents.
