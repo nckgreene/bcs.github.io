@@ -13,23 +13,20 @@ The other four features are viewable from an animal's side. The side features ar
 - blah
 - blah
 
-| ![](img/bcs_critical_points_1.jpg) | ![](img/bcs_critical_points_2.jpg) |
-| ![](img/bcs_critical_points_3.jpg) | ![](img/bcs_critical_points_4.jpg) |
+<!-- ![](img/bcs_critical_points_1.jpg#center) -->
+<!-- ![](img/bcs_critical_points_2.jpg#center) -->
+<!-- ![](img/bcs_critical_points_3.jpg#center) -->
+<!-- ![](img/bcs_critical_points_4.jpg#center) -->
 
-<!-- <p align="left"> -->
-  <!-- <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_1.jpg"> -->
-<!-- </p> -->
-<!-- <p align="right"> -->
-  <!-- <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_2.jpg"> -->
-<!-- </p> -->
-<!--  -->
-<!-- <p align="center"> -->
-  <!-- <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_3.jpg"> -->
-<!-- </p> -->
-<!--  -->
-<!-- <p align="center"> -->
-  <!-- <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_4.jpg"> -->
-<!-- </p> -->
+<p align="left">
+  <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_1.jpg">
+  <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_2.jpg">
+</p>
+
+<p align="left">
+  <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_3.jpg">
+  <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_4.jpg">
+</p>
 
 
 ### Current BCS prediction systems
