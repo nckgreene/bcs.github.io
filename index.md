@@ -13,10 +13,14 @@ The other four features are viewable from an animal's side, and they are:
 - blah
 - blah
 
-![](img/bcs_critical_points_1.jpg, "Side view of an animal.")
-![](img/bcs_critical_points_2.jpg, "Posterior view of an animal.")
-![](img/bcs_critical_points_3.jpg, "BCS from backbone, ribs, and hips.")
-![](img/bcs_critical_points_4.jpg, "BCS from pins, tail, rump, and thigh")
+<!-- ![](img/bcs_critical_points_1.jpg, "Side view of an animal.") -->
+<!-- ![](img/bcs_critical_points_2.jpg, "Posterior view of an animal.") -->
+<!-- ![](img/bcs_critical_points_3.jpg, "BCS from backbone, ribs, and hips.") -->
+<!-- ![](img/bcs_critical_points_4.jpg, "BCS from pins, tail, rump, and thigh") -->
+![](img/bcs_critical_points_1.jpg)
+![](img/bcs_critical_points_2.jpg)
+![](img/bcs_critical_points_3.jpg)
+![](img/bcs_critical_points_4.jpg)
 
 ### Current BCS prediction systems
 
