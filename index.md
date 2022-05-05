@@ -6,12 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ### Visual body condition scoring
-According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/#bcs), pertinent features for BCS are:
-
-    1. blah
-    2. blah
-    3. blah
-
+According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/#bcs), pertinent features for condition scoring are:
+- blah
+- blah
+- blah
 
 ### Current BCS prediction systems
 
