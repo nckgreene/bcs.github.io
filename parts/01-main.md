@@ -11,7 +11,9 @@ According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/h
 - blah
 - blah
 
-![Image 1](img/bcs_critical_points_1.jpg)
+![Image 1](img/bcs_critical_points_2.jpg)
+![Image 2](img/bcs_critical_points_3.jpg)
+![Image 3](img/bcs_critical_points_4.jpg)
 
 ### Current BCS prediction systems
 
