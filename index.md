@@ -13,11 +13,10 @@ The other four features are viewable from an animal's side, and they are:
 - blah
 - blah
 
-<!-- ![](img/bcs_critical_points_1.jpg) -->
-<!-- ![](img/bcs_critical_points_2.jpg) -->
-<!-- ![](img/bcs_critical_points_3.jpg) -->
-<!-- ![](img/bcs_critical_points_4.jpg) -->
-<img style = "float: right;", src="img/bcs_critical_points_1.jpg">
+![](img/bcs_critical_points_1.jpg#center)
+![](img/bcs_critical_points_2.jpg#center)
+![](img/bcs_critical_points_3.jpg#center)
+![](img/bcs_critical_points_4.jpg#center)
 
 ### Current BCS prediction systems
 
