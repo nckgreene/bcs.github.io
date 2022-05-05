@@ -1,13 +1,13 @@
 ## BCS Literature Review
 
 ### Body condition scoring
-According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/#bcs), there are eight pertinent body features for condition scoring. Four of these features can be viewed from an animal's posterior, and they are:
+According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/#bcs), there are eight pertinent body features for condition scoring. Four of these features can be viewed from an animal's posterior. The posterior features are:
 - blah
 - blah
 - blah
 - blah
 
-The other four features are viewable from an animal's side, and they are:
+The other four features are viewable from an animal's side. The side features are:
 - blah
 - blah
 - blah
@@ -18,6 +18,10 @@ The other four features are viewable from an animal's side, and they are:
 ![](img/bcs_critical_points_3.jpg#center)
 ![](img/bcs_critical_points_4.jpg#center)
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_1.jpg">
+</p>
+
 ### Current BCS prediction systems
 
 
@@ -27,7 +31,7 @@ Given that x, y, and z, depth information seems useful for BCS prediction. We co
 
 
 ### Body weight estimation
-Animal body weight prediction and BCS prediction are related problems, so successful image-based approaches for body weight estimation might also be successful for BCS prediction. Gjergji et al. (2020) compared a variety of neural network models on image-based cattle body weight prediction. The authors collected video of the dorsal area of the cattle (in other words, the camera captured data from above the animals), and then trained the models on the resulting animal images. The authors reported that convolutional neural networks (CNNs) performed best. From these results, we can assume that CNN models are a more appropriate choice for BCS prediction than other neural network models (such as recurrent models). 
+Animal body weight prediction and BCS prediction are related problems, so successful image-based approaches for body weight estimation might also be successful when applied to BCS prediction. Gjergji et al. (2020) compared a variety of neural network models on image-based cattle body weight prediction. The authors collected video of the dorsal area of the cattle (in other words, the camera captured data from above the animals), and then trained the models on the resulting animal images. The authors reported that convolutional neural networks (CNNs) performed best. From these results, we can assume that CNN models are a more appropriate choice for BCS prediction than other neural network models (such as recurrent models). 
 
 
 ### Animal pose estimation
