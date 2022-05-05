@@ -1,17 +1,15 @@
 ## BCS Literature Review
 
 ### Body condition scoring
-According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/#bcs), there are eight pertinent body features for condition scoring. Four of these features can be viewed from an animal's posterior. The posterior features are:
-- blah
-- blah
-- blah
-- blah
-
-The other four features are viewable from an animal's side. The side features are:
-- blah
-- blah
-- blah
-- blah
+According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/), there are eight pertinent body features for condition scoring. Some of these features can be viewed from an animal's side, whereas other features can be viewed from the animal's rear. The body features are:
+- Backbone (viewable from both side and rear)
+- Long ribs (viewable from side)
+- Short ribs (viewable from side)
+- Rump (viewable from side)
+- Thigh (viewable from side)
+- Hip bones (viewable from rear)
+- Pin bones (viewable from rear)
+- Tailhead (viewable from rear)
 
 <!-- ![](img/bcs_critical_points_1.jpg#center) -->
 <!-- ![](img/bcs_critical_points_2.jpg#center) -->
