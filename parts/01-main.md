@@ -1,7 +1,7 @@
 ## BCS Literature Review
 
 ### Body condition scoring
-According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/), there are eight pertinent body features for condition scoring. Some of these features can be viewed from an animal's side, whereas other features can be viewed from the animal's rear. The body features are:
+A body condition score (BCS) assesses animal body fat from visual features. A BCS is assigned to a cow the appearance of tissue cover. According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/), there are eight pertinent body features for condition scoring. Some of these features can be viewed from an animal's side, whereas other features can be viewed from the animal's rear. The body features are:
 - Backbone (viewable from both side and rear)
 - Long ribs (viewable from side)
 - Short ribs (viewable from side)
@@ -16,6 +16,8 @@ According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/h
 <!-- ![](img/bcs_critical_points_3.jpg#center) -->
 <!-- ![](img/bcs_critical_points_4.jpg#center) -->
 
+These body feautures are shown in the following images from [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/).
+
 <p align="left">
   <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_1.jpg">
   <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_2.jpg">
@@ -28,6 +30,7 @@ According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/h
 
 
 ### Current BCS prediction systems
+
 
 
 
