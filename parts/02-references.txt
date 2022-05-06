@@ -46,3 +46,9 @@ Schröder, U J, and R Staufenbiel. 2006. “Invited Review: Methods to
 Determine Body Fat Reserves in the Dairy Cow with Special Regard to
 Ultrasonographic Measurement of Backfat Thickness.” *Journal of Dairy
 Science* 89 (1): 1–14.
+
+Yukun, Sun, Huo Pengju, Wang Yujie, Cui Ziqi, Li Yang, Dai Baisheng, Li
+Runze, and Zhang Yonggen. 2019. “Automatic Monitoring System for
+Individual Dairy Cows Based on a Deep Learning Framework That Provides
+Identification via Body Parts and Estimation of Body Condition Score.”
+*Journal of Dairy Science* 102 (11): 10140–51.

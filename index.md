@@ -1,7 +1,7 @@
 ## BCS Literature Review
 
 ### Body condition scoring
-A body condition score (BCS) is a subjective evaluation of animal body fat based on visual or tactile features. According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/), there are eight pertinent body features for visual condition scoring. Some of these features can be viewed from an animal's side, whereas other features can be viewed from the animal's rear. These body features are:
+A body condition score (BCS) is a subjective evaluation of animal body fat based on visual or tactile features. Although BCS is a subjective measure, experienced scorers have demonstrated high agreement between their scores (Schröder and Staufenbiel, 2006). According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/), there are eight pertinent body features for visual condition scoring. Some of these features can be viewed from an animal's side, whereas other features can be viewed from the animal's rear. These body features are:
 
 - Backbone (viewable from both side and rear)
 - Long ribs (viewable from side)
@@ -12,12 +12,9 @@ A body condition score (BCS) is a subjective evaluation of animal body fat based
 - Pin bones (viewable from rear)
 - Tailhead (viewable from rear)
 
-<!-- ![](img/bcs_critical_points_1.jpg#center) -->
-<!-- ![](img/bcs_critical_points_2.jpg#center) -->
-<!-- ![](img/bcs_critical_points_3.jpg#center) -->
-<!-- ![](img/bcs_critical_points_4.jpg#center) -->
+These features are integrated by a scorer into an overall BCS. Although, scores based on only the pelvic and tailhead areas (the hips and pins) are most closely related to overall condition scores (Edmonson et al., 1989), so accurate video capture of the animals' posterior may prove to necessary for good scoring.
 
-These body features are shown in the following images from [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/).
+The body features used in visual condition scoring are shown in the following images from [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/).
 
 <p align="left">
   <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_1.jpg">
@@ -29,7 +26,6 @@ These body features are shown in the following images from [DairyNZ](https://www
   <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_4.jpg">
 </p>
 
-Although BCS is a subjective measure, experienced scorers have demonstrated high repeatability and precision between their scores (Schröder and Staufenbiel, 2006). Additionally, scores based on hooks/hips and pins have little variation between both experienced and inexperienced scorers (). In fact, scores based on only the pelvic and tailhead areas (where the hook and pins are located) are most closely related to overall condition scores (Edmonson et al., 1989).
 
 ### Current BCS prediction systems
 
@@ -42,6 +38,9 @@ Given that x, y, and z, depth information seems useful for BCS prediction. We co
 
 ### Body weight estimation
 Animal body weight prediction and BCS prediction are related problems, so successful image-based approaches for body weight estimation might also be successful when applied to BCS prediction. Gjergji et al. (2020) compared a variety of neural network models on image-based cattle body weight prediction. The authors collected video of the dorsal area of the cattle (in other words, the camera captured data from above the animals), and then trained the models on the resulting animal images. The authors reported that convolutional neural networks (CNNs) performed best. From these results, we can assume that CNN models are a more appropriate choice for BCS prediction than other neural network models (such as recurrent models). 
+
+### Deep learning for BCS estimation
+A common approach for 
 
 
 ### Animal pose estimation
@@ -103,3 +102,9 @@ Schröder, U J, and R Staufenbiel. 2006. “Invited Review: Methods to
 Determine Body Fat Reserves in the Dairy Cow with Special Regard to
 Ultrasonographic Measurement of Backfat Thickness.” *Journal of Dairy
 Science* 89 (1): 1–14.
+
+Yukun, Sun, Huo Pengju, Wang Yujie, Cui Ziqi, Li Yang, Dai Baisheng, Li
+Runze, and Zhang Yonggen. 2019. “Automatic Monitoring System for
+Individual Dairy Cows Based on a Deep Learning Framework That Provides
+Identification via Body Parts and Estimation of Body Condition Score.”
+*Journal of Dairy Science* 102 (11): 10140–51.
