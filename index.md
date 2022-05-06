@@ -1,7 +1,8 @@
 ## BCS Literature Review
 
 ### Body condition scoring
-A body condition score (BCS) assesses animal body fat from visual features. A BCS is assigned to a cow the appearance of tissue cover. According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/), there are eight pertinent body features for condition scoring. Some of these features can be viewed from an animal's side, whereas other features can be viewed from the animal's rear. The body features are:
+A body condition score (BCS) is a subjective evaluation of animal body fat based on visual or tactile features. According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/), there are eight pertinent body features for visual condition scoring. Some of these features can be viewed from an animal's side, whereas other features can be viewed from the animal's rear. These body features are:
+
 - Backbone (viewable from both side and rear)
 - Long ribs (viewable from side)
 - Short ribs (viewable from side)
@@ -16,7 +17,7 @@ A body condition score (BCS) assesses animal body fat from visual features. A BC
 <!-- ![](img/bcs_critical_points_3.jpg#center) -->
 <!-- ![](img/bcs_critical_points_4.jpg#center) -->
 
-These body feautures are shown in the following images from [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/).
+These body features are shown in the following images from [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/).
 
 <p align="left">
   <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_1.jpg">
@@ -28,6 +29,7 @@ These body feautures are shown in the following images from [DairyNZ](https://ww
   <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_4.jpg">
 </p>
 
+Although BCS is a subjective measure, experienced scorers have demonstrated high repeatability and precision between their scores (Schröder and Staufenbiel, 2006). Additionally, scores based on hooks/hips and pins have little variation between both experienced and inexperienced scorers (). In fact, scores based on only the pelvic and tailhead areas (where the hook and pins are located) are most closely related to overall condition scores (Edmonson et al., 1989).
 
 ### Current BCS prediction systems
 
@@ -58,6 +60,10 @@ Vision-Based Weight Estimation of Livestock: A Systematic Literature
 Review.” *New Zealand Journal of Agricultural Research* 65 (2-3):
 227–47.
 
+Edmonson, AJ, IJ Lean, LD Weaver, T Farver, and G Webster. 1989. “A Body
+Condition Scoring Chart for Holstein Dairy Cows.” *Journal of Dairy
+Science* 72 (1): 68–78.
+
 Gjergji, Mikel, Vanessa de Moraes Weber, Luiz Otávio Campos Silva,
 Rodrigo da Costa Gomes, Thiago Luı́s Alves Campos De Araújo, Hemerson
 Pistori, and Marco Alvarez. 2020. “Deep Learning Techniques for Beef
@@ -66,6 +72,16 @@ on Neural Networks (IJCNN)*, 1–8. IEEE.
 
 Liao, Bohao, and Marilyn Krukowski. 2017. “Arrangement and Method for
 Determining a Body Condition Score of an Animal.” Google Patents.
+
+Mancini, Francesco, Marco Dubbini, Mario Gattelli, Francesco Stecchi,
+Stefano Fabbri, and Giovanni Gabbianelli. 2013. “Using Unmanned Aerial
+Vehicles (UAV) for High-Resolution Reconstruction of Topography: The
+Structure from Motion Approach on Coastal Environments.” *Remote
+Sensing* 5 (12): 6880–98.
+
+Mur-Artal, Raul, Jose Maria Martinez Montiel, and Juan D Tardos. 2015.
+“ORB-SLAM: A Versatile and Accurate Monocular SLAM System.” *IEEE
+Transactions on Robotics* 31 (5): 1147–63.
 
 Pereira, Talmo D, Diego E Aldarondo, Lindsay Willmore, Mikhail Kislin,
 Samuel S-H Wang, Mala Murthy, and Joshua W Shaevitz. 2019. “Fast Animal
@@ -76,3 +92,14 @@ Redmon, Joseph, Santosh Divvala, Ross Girshick, and Ali Farhadi. 2016.
 “You Only Look Once: Unified, Real-Time Object Detection.” In
 *Proceedings of the IEEE Conference on Computer Vision and Pattern
 Recognition*, 779–88.
+
+Rodrı́guez Alvarez, Juan, Mauricio Arroqui, Pablo Mangudo, Juan Toloza,
+Daniel Jatip, Juan M Rodriguez, Alfredo Teyseyre, et al. 2019.
+“Estimating Body Condition Score in Dairy Cows from Depth Images Using
+Convolutional Neural Networks, Transfer Learning and Model Ensembling
+Techniques.” *Agronomy* 9 (2): 90.
+
+Schröder, U J, and R Staufenbiel. 2006. “Invited Review: Methods to
+Determine Body Fat Reserves in the Dairy Cow with Special Regard to
+Ultrasonographic Measurement of Backfat Thickness.” *Journal of Dairy
+Science* 89 (1): 1–14.

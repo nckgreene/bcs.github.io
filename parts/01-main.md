@@ -1,7 +1,7 @@
 ## BCS Literature Review
 
 ### Body condition scoring
-A body condition score (BCS) assesses animal body fat from visual features. A BCS is assigned to a cow the appearance of tissue cover. According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/), there are eight pertinent body features for condition scoring. Some of these features can be viewed from an animal's side, whereas other features can be viewed from the animal's rear. These body features are:
+A body condition score (BCS) is a subjective evaluation of animal body fat based on visual or tactile features. According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/), there are eight pertinent body features for visual condition scoring. Some of these features can be viewed from an animal's side, whereas other features can be viewed from the animal's rear. These body features are:
 
 - Backbone (viewable from both side and rear)
 - Long ribs (viewable from side)
@@ -29,6 +29,7 @@ These body features are shown in the following images from [DairyNZ](https://www
   <img width="460" height="300" src="https://github.com/nckgreene/bcs.github.io/blob/master/img/bcs_critical_points_4.jpg">
 </p>
 
+Although BCS is a subjective measure, experienced scorers have demonstrated high repeatability and precision between their scores (Schröder and Staufenbiel, 2006). Additionally, scores based on hooks/hips and pins have little variation between both experienced and inexperienced scorers (). In fact, scores based on only the pelvic and tailhead areas (where the hook and pins are located) are most closely related to overall condition scores (Edmonson et al., 1989).
 
 ### Current BCS prediction systems
 

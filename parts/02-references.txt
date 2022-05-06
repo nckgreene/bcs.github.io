@@ -3,6 +3,10 @@ Vision-Based Weight Estimation of Livestock: A Systematic Literature
 Review.” *New Zealand Journal of Agricultural Research* 65 (2-3):
 227–47.
 
+Edmonson, AJ, IJ Lean, LD Weaver, T Farver, and G Webster. 1989. “A Body
+Condition Scoring Chart for Holstein Dairy Cows.” *Journal of Dairy
+Science* 72 (1): 68–78.
+
 Gjergji, Mikel, Vanessa de Moraes Weber, Luiz Otávio Campos Silva,
 Rodrigo da Costa Gomes, Thiago Luı́s Alves Campos De Araújo, Hemerson
 Pistori, and Marco Alvarez. 2020. “Deep Learning Techniques for Beef
@@ -11,6 +15,16 @@ on Neural Networks (IJCNN)*, 1–8. IEEE.
 
 Liao, Bohao, and Marilyn Krukowski. 2017. “Arrangement and Method for
 Determining a Body Condition Score of an Animal.” Google Patents.
+
+Mancini, Francesco, Marco Dubbini, Mario Gattelli, Francesco Stecchi,
+Stefano Fabbri, and Giovanni Gabbianelli. 2013. “Using Unmanned Aerial
+Vehicles (UAV) for High-Resolution Reconstruction of Topography: The
+Structure from Motion Approach on Coastal Environments.” *Remote
+Sensing* 5 (12): 6880–98.
+
+Mur-Artal, Raul, Jose Maria Martinez Montiel, and Juan D Tardos. 2015.
+“ORB-SLAM: A Versatile and Accurate Monocular SLAM System.” *IEEE
+Transactions on Robotics* 31 (5): 1147–63.
 
 Pereira, Talmo D, Diego E Aldarondo, Lindsay Willmore, Mikhail Kislin,
 Samuel S-H Wang, Mala Murthy, and Joshua W Shaevitz. 2019. “Fast Animal
@@ -21,3 +35,14 @@ Redmon, Joseph, Santosh Divvala, Ross Girshick, and Ali Farhadi. 2016.
 “You Only Look Once: Unified, Real-Time Object Detection.” In
 *Proceedings of the IEEE Conference on Computer Vision and Pattern
 Recognition*, 779–88.
+
+Rodrı́guez Alvarez, Juan, Mauricio Arroqui, Pablo Mangudo, Juan Toloza,
+Daniel Jatip, Juan M Rodriguez, Alfredo Teyseyre, et al. 2019.
+“Estimating Body Condition Score in Dairy Cows from Depth Images Using
+Convolutional Neural Networks, Transfer Learning and Model Ensembling
+Techniques.” *Agronomy* 9 (2): 90.
+
+Schröder, U J, and R Staufenbiel. 2006. “Invited Review: Methods to
+Determine Body Fat Reserves in the Dairy Cow with Special Regard to
+Ultrasonographic Measurement of Backfat Thickness.” *Journal of Dairy
+Science* 89 (1): 1–14.
