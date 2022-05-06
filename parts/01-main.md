@@ -12,7 +12,7 @@ A body condition score (BCS) is a subjective evaluation of animal body fat based
 - Pin bones (viewable from rear)
 - Tailhead (viewable from rear)
 
-These features are integrated by a scorer into an overall BCS. Although, scores based on only the pelvic and tailhead areas (the hips and pins) are most closely related to overall condition scores (Edmonson et al., 1989), so accurate video capture of the animals' posterior may prove to necessary for good scoring.
+These features are integrated by a scorer into an overall BCS. Scores based on only the pelvic and tailhead areas (the hips and pins) are most closely related to overall condition scores (Edmonson et al., 1989), so accurate video capture of the animals' posterior may prove to necessary for good scoring.
 
 The body features used in visual condition scoring are shown in the following images from [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/).
 
@@ -40,7 +40,7 @@ Given that x, y, and z, depth information seems useful for BCS prediction. We co
 Animal body weight prediction and BCS prediction are related problems, so successful image-based approaches for body weight estimation might also be successful when applied to BCS prediction. Gjergji et al. (2020) compared a variety of neural network models on image-based cattle body weight prediction. The authors collected video of the dorsal area of the cattle (in other words, the camera captured data from above the animals), and then trained the models on the resulting animal images. The authors reported that convolutional neural networks (CNNs) performed best. From these results, we can assume that CNN models are a more appropriate choice for BCS prediction than other neural network models (such as recurrent models). 
 
 ### Deep learning for BCS estimation
-A common approach for 
+Some previous work has applied CNN models to estimate dairy cow BCS from multiple image channels. The images are processed into mul
 
 
 ### Animal pose estimation
