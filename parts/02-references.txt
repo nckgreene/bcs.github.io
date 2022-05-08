@@ -7,6 +7,11 @@ Edmonson, AJ, IJ Lean, LD Weaver, T Farver, and G Webster. 1989. “A Body
 Condition Scoring Chart for Holstein Dairy Cows.” *Journal of Dairy
 Science* 72 (1): 68–78.
 
+Fischer, Amélie, T Luginbühl, L Delattre, JM Delouard, and Philippe
+Faverdin. 2015. “Rear Shape in 3 Dimensions Summarized by Principal
+Component Analysis Is a Good Predictor of Body Condition Score in
+Holstein Dairy Cows.” *Journal of Dairy Science* 98 (7): 4465–76.
+
 Gjergji, Mikel, Vanessa de Moraes Weber, Luiz Otávio Campos Silva,
 Rodrigo da Costa Gomes, Thiago Luı́s Alves Campos De Araújo, Hemerson
 Pistori, and Marco Alvarez. 2020. “Deep Learning Techniques for Beef

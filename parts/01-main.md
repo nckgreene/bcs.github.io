@@ -27,16 +27,12 @@ The body features used in visual condition scoring are shown in the following im
 </p>
 
 
-### Current BCS prediction systems
-blah blah
-#### subsubsection
-more blahs
-
-
+### BCS prediction from images
+Previous image-based systems have either predicted BCS from images with external information (such as x, y. and z) or from depth images (cite). 
 
 
 ### Depth estimation
-Given that x, y, and z, depth information seems useful for BCS prediction. We could estimate depth from tthe 2D image sequences using structure from motion (SfM) as used in topography reconstruction from aerial photos (Mancini et al. 2013) and point cloud constuction of an unknown environment with monocular SLAM (Mur-Artal and Montiel, 2015). The estimated depth information could serve as another channel to be processed in conjunction with our image data. The problem with this approach is that it might violate current patents for depth camera BCS systems, so it is safer/easier to avoid explicitly calculating depth from the image sequences.
+The 3D shape of cattles' rear is associated with BCS (Fischer et al., 2015), and we know depth images have been used with success in previous BCS systems. The problem is that we probably cannot use depth cameras in our BCS systems since this could violate current patents (Liao and Krukowski, 2017). We could estimate depth from the 2D image sequences using structure from motion (SfM) as done in topography reconstruction from aerial photos (Mancini et al. 2013) and point cloud constuction of an unknown environment with a 2D camera (Mur-Artal and Montiel, 2015). But current patents might even make a SfM approach not an option.
 
 
 ### Body weight estimation
