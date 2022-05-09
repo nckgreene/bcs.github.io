@@ -58,11 +58,6 @@ Detection of keys parts of cows may prove useful for scoring. As already mention
 
 
 ### References
-Alvarez Rodrı́guez, Juan, Mauricio Arroqui, Pablo Mangudo, Juan Toloza,
-Daniel Jatip, Juan M Rodrı́guez, Alfredo Teyseyre, et al. 2018. “Body
-Condition Estimation on Cows from Depth Images Using Convolutional
-Neural Networks.” *Computers and Electronics in Agriculture* 155: 12–22.
-
 Azzaro, Giuseppe, Margherita Caccamo, James D Ferguson, Sebastiano
 Battiato, Giovanni Maria Farinella, Giuseppe Claudio Guarnera, Giovanni
 Puglisi, Rosario Petriglieri, and Giuseppe Licitra. 2011. “Objective
@@ -117,6 +112,11 @@ Daniel Jatip, Juan M Rodriguez, Alfredo Teyseyre, et al. 2019.
 “Estimating Body Condition Score in Dairy Cows from Depth Images Using
 Convolutional Neural Networks, Transfer Learning and Model Ensembling
 Techniques.” *Agronomy* 9 (2): 90.
+
+Rodrı́guez Alvarez, Juan, Mauricio Arroqui, Pablo Mangudo, Juan Toloza,
+Daniel Jatip, Juan M Rodrı́guez, Alfredo Teyseyre, et al. 2018. “Body
+Condition Estimation on Cows from Depth Images Using Convolutional
+Neural Networks.” *Computers and Electronics in Agriculture* 155: 12–22.
 
 Schröder, U J, and R Staufenbiel. 2006. “Invited Review: Methods to
 Determine Body Fat Reserves in the Dairy Cow with Special Regard to
