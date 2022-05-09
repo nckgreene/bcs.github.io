@@ -1,3 +1,8 @@
+Alvarez, Juan Rodrı́guez, Mauricio Arroqui, Pablo Mangudo, Juan Toloza,
+Daniel Jatip, Juan M Rodrı́guez, Alfredo Teyseyre, et al. 2018. “Body
+Condition Estimation on Cows from Depth Images Using Convolutional
+Neural Networks.” *Computers and Electronics in Agriculture* 155: 12–22.
+
 Dohmen, Roel, Cagatay Catal, and Qingzhi Liu. 2022. “Computer
 Vision-Based Weight Estimation of Livestock: A Systematic Literature
 Review.” *New Zealand Journal of Agricultural Research* 65 (2-3):
