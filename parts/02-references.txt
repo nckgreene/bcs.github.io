@@ -3,6 +3,12 @@ Daniel Jatip, Juan M Rodrı́guez, Alfredo Teyseyre, et al. 2018. “Body
 Condition Estimation on Cows from Depth Images Using Convolutional
 Neural Networks.” *Computers and Electronics in Agriculture* 155: 12–22.
 
+Azzaro, Giuseppe, Margherita Caccamo, James D Ferguson, Sebastiano
+Battiato, Giovanni Maria Farinella, Giuseppe Claudio Guarnera, Giovanni
+Puglisi, Rosario Petriglieri, and Giuseppe Licitra. 2011. “Objective
+Estimation of Body Condition Score by Modeling Cow Body Shape from
+Digital Images.” *Journal of Dairy Science* 94 (4): 2126–37.
+
 Dohmen, Roel, Cagatay Catal, and Qingzhi Liu. 2022. “Computer
 Vision-Based Weight Estimation of Livestock: A Systematic Literature
 Review.” *New Zealand Journal of Agricultural Research* 65 (2-3):
@@ -56,6 +62,11 @@ Schröder, U J, and R Staufenbiel. 2006. “Invited Review: Methods to
 Determine Body Fat Reserves in the Dairy Cow with Special Regard to
 Ultrasonographic Measurement of Backfat Thickness.” *Journal of Dairy
 Science* 89 (1): 1–14.
+
+Spoliansky, Roii, Yael Edan, Yisrael Parmet, and Ilan Halachmi. 2016.
+“Development of Automatic Body Condition Scoring Using a Low-Cost
+3-Dimensional Kinect Camera.” *Journal of Dairy Science* 99 (9):
+7714–25.
 
 Weber, Vanessa Aparecida Moraes, Fabricio de Lima Weber, Adair da Silva
 Oliveira, Gilberto Astolfi, Geazy Vilharva Menezes, João Vitor de
