@@ -58,7 +58,7 @@ Detection of keys parts of cows may prove useful for scoring. As already mention
 
 
 ### References
-Alvarez, Juan Rodrı́guez, Mauricio Arroqui, Pablo Mangudo, Juan Toloza,
+Alvarez Rodrı́guez, Juan, Mauricio Arroqui, Pablo Mangudo, Juan Toloza,
 Daniel Jatip, Juan M Rodrı́guez, Alfredo Teyseyre, et al. 2018. “Body
 Condition Estimation on Cows from Depth Images Using Convolutional
 Neural Networks.” *Computers and Electronics in Agriculture* 155: 12–22.
