@@ -34,7 +34,7 @@ Many approaches have used depth cameras and then, using the cows' topology, have
 
 Previous image-based systems have BCS from images with external information (such as x, y. and z) or from depth images (cite). 
 
-Deep learning has been applied to BCS prediction from depth images. Rodrı́guez Alvarez et al. (2018) performed BCS prediction by applying a convolutional neural network (CNN) to 3-channel images (a depth channel, an edge channel, and a fourier channel) where each image was a top-down view of a cow's rear. Rodrı́guez Alvarez et al. (2019) extended their previous approach by applying an ImageNet pretrained CNN and model ensembling techniques for BCS prediction from the same 3-channel images. Yukun et al. (2019) performed BCS prediction a CNN to 3-channel images (a depth channel, a gray channel, and a phase congruency (edge) channel) where each image was a top-down view of a cow's back; notably, the authors used ultrasound to measure the cows' backfat thickness, which determined the ground-truth BCS for the training and test sets.
+Deep learning has been applied to BCS prediction from depth images. Rodrı́guez Alvarez et al. (2018) performed BCS prediction by applying a convolutional neural network (CNN) to 3-channel images (a depth channel, an edge channel, and a fourier channel) where each image was a top-down view of a cow's rear. Rodrı́guez Alvarez et al. (2019) extended their previous approach by applying an ImageNet pretrained CNN and model ensembling techniques for BCS prediction from the same 3-channel images. Yukun et al. (2019) performed BCS prediction a CNN to 3-channel images (a depth channel, a gray channel, and a phase congruency (edge) channel) where each image was a top-down view of a cow's back; notably, the authors used ultrasound to measure the cows' backfat thickness, which determined the ground-truth BCS for the training and test sets. In all these approaches, background was separated from the animals by taking advantage of the depth information.
 
 ### Depth estimation
 We know that depth can be useful information a BCS system given the success of previous work and that the 3D shape of cattle rear is associated with BCS (Fischer et al., 2015). The problem is that we probably cannot use depth cameras in our BCS systems since this could violate current patents (Liao and Krukowski, 2017). We could estimate depth from the 2D image sequences using structure from motion (SfM) as done in topography reconstruction from aerial photos (Mancini et al. 2013) and point cloud constuction of an unknown environment with a 2D camera (Mur-Artal and Montiel, 2015). But current patents might even make a SfM approach not an option.
@@ -43,19 +43,8 @@ We know that depth can be useful information a BCS system given the success of p
 ### Body weight estimation
 Animal body weight prediction and BCS prediction are related problems, so successful image-based approaches for body weight estimation might also be successful when applied to BCS prediction. Gjergji et al. (2020) compared a variety of neural network models on image-based cattle body weight prediction. The authors collected video of the dorsal area of the cattle (in other words, the camera captured data from above the animals), and then trained the models on the resulting animal images. The authors reported that convolutional neural networks (CNNs) performed best. From these results, we can assume that CNN models are a more appropriate choice for BCS prediction than other neural network models (such as recurrent models). 
 
-### BCS estimation with CNNs
-Some previous work has applied convolutional neural networks (CNN) models to estimate dairy cow BCS from multiple image channels. For example ..., the 
-
-
-### Animal pose estimation
-
-
 ### Detection of key parts in dairy cows
-Detection of keys parts of cows may prove useful for scoring. As already mentioned, scores based on the rear of an animal are mostly closely associated with overall BCS, so we may want to identify this key part with rear object detection. Dairy cow body part detection has been previously accomplised with a variation of YOLOv3 (Jiang et al., 2019).
-
-### 
-
-
+Detection of keys parts of cows may prove useful for scoring. As already mentioned, scores based on the rear of an animal are mostly closely associated with overall BCS, so we may want to identify this key part with rear object detection. Key parts could be identified with animal pose estimation (Pereira et al., 2019, Graving et al., 2019). Dairy cow body part detection has been previously accomplised with a variation of YOLOv3 (Jiang et al., 2019). If we use a YOLO model for body part detection and we want a completely end-to-end deep learning approach for BCS prediction, it could be possible to use only a YOLO model (or some variation) given that YOLO already performs regression (Redman et al. 2016); we could include a dimension in the output tensor dedicated to BCS prediction.
 
 ### References
 Azzaro, Giuseppe, Margherita Caccamo, James D Ferguson, Sebastiano
@@ -83,6 +72,11 @@ Rodrigo da Costa Gomes, Thiago Luı́s Alves Campos De Araújo, Hemerson
 Pistori, and Marco Alvarez. 2020. “Deep Learning Techniques for Beef
 Cattle Body Weight Prediction.” In *2020 International Joint Conference
 on Neural Networks (IJCNN)*, 1–8. IEEE.
+
+Graving, Jacob M, Daniel Chae, Hemal Naik, Liang Li, Benjamin Koger,
+Blair R Costelloe, and Iain D Couzin. 2019. “DeepPoseKit, a Software
+Toolkit for Fast and Robust Animal Pose Estimation Using Deep Learning.”
+*Elife* 8: e47994.
 
 Liao, Bohao, and Marilyn Krukowski. 2017. “Arrangement and Method for
 Determining a Body Condition Score of an Animal.” Google Patents.
