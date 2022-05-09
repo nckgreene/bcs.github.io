@@ -3,14 +3,14 @@
 ### Body condition scoring
 A body condition score (BCS) is a subjective evaluation of animal body fat based on visual or tactile features. Although BCS is a subjective measure, experienced scorers have demonstrated high agreement between their scores (Schröder and Staufenbiel, 2006). BCS are generally evaluated on a 9-point scale (in NZ), but values from 3.0 to 6.0 are most common. One thing to consider is that a properly managed herd will not have many extreme scores, so an imbalanced data set will need to be managed (Alvarez et al., 2018). According to [DairyNZ](https://www.dairynz.co.nz/animal/body-condition-scoring/how-to-bcs/), there are eight pertinent body features for visual condition scoring. Some of these features can be viewed from an animal's side, whereas other features can be viewed from the animal's rear. These body features are:
 
-- Backbone (viewable from both side and rear)
-- Long ribs (viewable from side)
-- Short ribs (viewable from side)
-- Rump (viewable from side)
-- Thigh (viewable from side)
-- Hip bones (viewable from rear)
-- Pin bones (viewable from rear)
-- Tailhead (viewable from rear)
+- Backbone 
+- Long ribs 
+- Short ribs 
+- Rump 
+- Thigh 
+- Hip bones 
+- Pin bones 
+- Tailhead 
 
 These features are integrated by a scorer into an overall BCS. Scores based on only the pelvic and tailhead areas (the hips and pins) are most closely related to overall condition scores (Edmonson et al., 1989), so accurate video capture of an animal's posterior may prove to necessary for good scoring.
 
