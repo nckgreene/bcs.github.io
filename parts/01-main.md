@@ -27,7 +27,11 @@ The body features used in visual condition scoring are shown in the following im
 </p>
 
 
+
+
+
 ### BCS prediction from images
+Some approaches have used active shape models based on appearance (cite) or contour (Weber et al., 2020).
 Previous image-based systems have BCS from images with external information (such as x, y. and z) or from depth images (cite). 
 
 

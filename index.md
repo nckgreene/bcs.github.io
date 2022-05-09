@@ -27,7 +27,11 @@ The body features used in visual condition scoring are shown in the following im
 </p>
 
 
+
+
+
 ### BCS prediction from images
+Some approaches have used active shape models based on appearance (cite) or contour (Weber et al., 2020).
 Previous image-based systems have BCS from images with external information (such as x, y. and z) or from depth images (cite). 
 
 
@@ -111,6 +115,12 @@ Schröder, U J, and R Staufenbiel. 2006. “Invited Review: Methods to
 Determine Body Fat Reserves in the Dairy Cow with Special Regard to
 Ultrasonographic Measurement of Backfat Thickness.” *Journal of Dairy
 Science* 89 (1): 1–14.
+
+Weber, Vanessa Aparecida Moraes, Fabricio de Lima Weber, Adair da Silva
+Oliveira, Gilberto Astolfi, Geazy Vilharva Menezes, João Vitor de
+Andrade Porto, Fábio Prestes Cesar Rezende, et al. 2020. “Cattle Weight
+Estimation Using Active Contour Models and Regression Trees Bagging.”
+*Computers and Electronics in Agriculture* 179: 105804.
 
 Yukun, Sun, Huo Pengju, Wang Yujie, Cui Ziqi, Li Yang, Dai Baisheng, Li
 Runze, and Zhang Yonggen. 2019. “Automatic Monitoring System for
