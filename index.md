@@ -108,15 +108,13 @@ Redmon, Joseph, Santosh Divvala, Ross Girshick, and Ali Farhadi. 2016.
 Recognition*, 779–88.
 
 Rodrı́guez Alvarez, Juan, Mauricio Arroqui, Pablo Mangudo, Juan Toloza,
-Daniel Jatip, Juan M Rodriguez, Alfredo Teyseyre, et al. 2019.
-“Estimating Body Condition Score in Dairy Cows from Depth Images Using
-Convolutional Neural Networks, Transfer Learning and Model Ensembling
-Techniques.” *Agronomy* 9 (2): 90.
-
-Rodrı́guez Alvarez, Juan, Mauricio Arroqui, Pablo Mangudo, Juan Toloza,
 Daniel Jatip, Juan M Rodrı́guez, Alfredo Teyseyre, et al. 2018. “Body
 Condition Estimation on Cows from Depth Images Using Convolutional
 Neural Networks.” *Computers and Electronics in Agriculture* 155: 12–22.
+
+———, et al. 2019. “Estimating Body Condition Score in Dairy Cows from
+Depth Images Using Convolutional Neural Networks, Transfer Learning and
+Model Ensembling Techniques.” *Agronomy* 9 (2): 90.
 
 Schröder, U J, and R Staufenbiel. 2006. “Invited Review: Methods to
 Determine Body Fat Reserves in the Dairy Cow with Special Regard to
