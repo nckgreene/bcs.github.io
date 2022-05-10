@@ -29,6 +29,11 @@ Blair R Costelloe, and Iain D Couzin. 2019. “DeepPoseKit, a Software
 Toolkit for Fast and Robust Animal Pose Estimation Using Deep Learning.”
 *Elife* 8: e47994.
 
+Hansen, Mark F, Melvyn L Smith, Lyndon N Smith, K Abdul Jabbar, and
+Duncan Forbes. 2018. “Automated Monitoring of Dairy Cow Body Condition,
+Mobility and Weight Using a Single 3d Video Capture Device.” *Computers
+in Industry* 98: 14–22.
+
 Liao, Bohao, and Marilyn Krukowski. 2017. “Arrangement and Method for
 Determining a Body Condition Score of an Animal.” Google Patents.
 
