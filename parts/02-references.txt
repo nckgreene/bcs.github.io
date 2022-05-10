@@ -38,6 +38,11 @@ Duncan Forbes. 2018. “Automated Monitoring of Dairy Cow Body Condition,
 Mobility and Weight Using a Single 3d Video Capture Device.” *Computers
 in Industry* 98: 14–22.
 
+Li, Xinru, Zelin Hu, Xiaoping Huang, Tao Feng, Xuanjiang Yang, and Miao
+Li. 2019. “Cow Body Condition Score Estimation with Convolutional Neural
+Networks.” In *2019 IEEE 4th International Conference on Image, Vision
+and Computing (ICIVC)*, 433–37. IEEE.
+
 Liao, Bohao, and Marilyn Krukowski. 2017. “Arrangement and Method for
 Determining a Body Condition Score of an Animal.” Google Patents.
 
