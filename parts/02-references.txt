@@ -29,6 +29,10 @@ Blair R Costelloe, and Iain D Couzin. 2019. “DeepPoseKit, a Software
 Toolkit for Fast and Robust Animal Pose Estimation Using Deep Learning.”
 *Elife* 8: e47994.
 
+Halachmi, I, M Klopčič, P Polak, DJ Roberts, and JM Bewley. 2013.
+“Automatic Assessment of Dairy Cattle Body Condition Score Using Thermal
+Imaging.” *Computers and Electronics in Agriculture* 99: 35–40.
+
 Hansen, Mark F, Melvyn L Smith, Lyndon N Smith, K Abdul Jabbar, and
 Duncan Forbes. 2018. “Automated Monitoring of Dairy Cow Body Condition,
 Mobility and Weight Using a Single 3d Video Capture Device.” *Computers
