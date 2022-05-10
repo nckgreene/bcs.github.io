@@ -28,9 +28,7 @@ The body features used in visual condition scoring are shown in the following im
 
 
 ### BCS prediction from images
-Some approaches have used active shape models based on appearance (Azzaro et al. 2011) or contour (Weber et al., 2020).
-
-Many approaches have used depth cameras and then, using the cows' topology, have engineered features that a processed by models (Spoliansky et al., 2016, Liao and Krukowski, 2017)
+Previous approaches for cattle BCS prediction can be divided into those that worked with 2D images as data those that worked with depth images as data. Some approaches based on 2D images have used active shape models based on appearance (Azzaro et al. 2011) or contour (Weber et al., 2020). Other approaches based on 2D images have used ... Approaches based on depth images used the animals' topology to engineer features for further processing by models (Spoliansky et al., 2016, Liao and Krukowski, 2017).
 
 Previous image-based systems have BCS from images with external information (such as x, y. and z) or from depth images (cite). 
 
@@ -39,9 +37,8 @@ Deep learning has been applied to BCS prediction from depth images. Rodrı́guez
 ### Depth estimation
 We know that depth can be useful information a BCS system given the success of previous work and that the 3D shape of cattle rear is associated with BCS (Fischer et al., 2015). The problem is that we probably cannot use depth cameras in our BCS systems since this could violate current patents (Liao and Krukowski, 2017). We could estimate depth from the 2D image sequences using structure from motion (SfM) as done in topography reconstruction from aerial photos (Mancini et al. 2013) and point cloud constuction of an unknown environment with a 2D camera (Mur-Artal and Montiel, 2015). But current patents might even make a SfM approach not an option.
 
-
-### Body weight estimation
-Animal body weight prediction and BCS prediction are related problems, so successful image-based approaches for body weight estimation might also be successful when applied to BCS prediction. Gjergji et al. (2020) compared a variety of neural network models on image-based cattle body weight prediction. The authors collected video of the dorsal area of the cattle (in other words, the camera captured data from above the animals), and then trained the models on the resulting animal images. The authors reported that convolutional neural networks (CNNs) performed best. From these results, we can assume that CNN models are a more appropriate choice for BCS prediction than other neural network models (such as recurrent models). 
+<!--### Body weight estimation
+Animal body weight prediction and BCS prediction are related problems, so successful image-based approaches for body weight estimation might also be successful when applied to BCS prediction. Gjergji et al. (2020) compared a variety of neural network models on image-based cattle body weight prediction. The authors collected video of the dorsal area of the cattle (in other words, the camera captured data from above the animals), and then trained the models on the resulting animal images. The authors reported that convolutional neural networks (CNNs) performed best. From these results, we can assume that CNN models are a more appropriate choice for BCS prediction than other neural network models (such as recurrent models). --->
 
 ### Detection of key parts in dairy cows
 Detection of keys parts of cows may prove useful for scoring. As already mentioned, scores based on the rear of an animal are mostly closely associated with overall BCS, so we may want to identify this key part with rear object detection. Key parts could be identified with animal pose estimation (Pereira et al., 2019, Graving et al., 2019). Dairy cow body part detection has been previously accomplised with a variation of YOLOv3 (Jiang et al., 2019). If we use a YOLO model for body part detection and we want a completely end-to-end deep learning approach for BCS prediction, it could be possible to use only a YOLO model (or some variation) given that YOLO already performs regression (Redman et al. 2016); we could include a dimension in the output tensor dedicated to BCS prediction.
