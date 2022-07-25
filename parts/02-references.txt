@@ -38,6 +38,10 @@ Duncan Forbes. 2018. “Automated Monitoring of Dairy Cow Body Condition,
 Mobility and Weight Using a Single 3d Video Capture Device.” *Computers
 in Industry* 98: 14–22.
 
+Jiang, Bo, Qian Wu, Xuqiang Yin, Dihua Wu, Huaibo Song, and Dongjian He.
+2019. “FLYOLOv3 Deep Learning for Key Parts of Dairy Cow Body
+Detection.” *Computers and Electronics in Agriculture* 166: 104982.
+
 Li, Xinru, Zelin Hu, Xiaoping Huang, Tao Feng, Xuanjiang Yang, and Miao
 Li. 2019. “Cow Body Condition Score Estimation with Convolutional Neural
 Networks.” In *2019 IEEE 4th International Conference on Image, Vision
